@@ -2,8 +2,6 @@ name: osu-wiki continuous integration
 
 on:
   push:
-    branches:
-      - master
   pull_request:
     branches:
       - master
